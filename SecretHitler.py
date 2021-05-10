@@ -6,7 +6,7 @@ import random
 import asyncio
 import gamedata
 
-TOKEN = 'Njk3ODE3OTUwMDYwODA2MTU0.Xo8z1Q.6Ku77oc1fZ_Ypx0a-kTcqSGMkCk'
+TOKEN = 'TOKEN-HERE'
 RATIOS = {2 : 0, 3 : 1, 5 : 3, 6 : 4, 7 : 4, 8 : 5, 9 : 5, 10 : 6}
 TRACK = {}
 
